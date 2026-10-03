@@ -141,6 +141,20 @@ When a task involves a tool a non-coder wouldn't know (Search Console, Vercel, S
 - `references/wordpress-audit.md` - the WP audit-fix methodology (#1 rule: fix where the page actually RENDERS)
 - `references/audit-report-template.html` - the HTML report `/audit` and `/seo-optimization` write
 
+## My setup
+
+- **Business:** MiNa Family Dentistry - family + cosmetic dental practice
+- **Address:** 7191 Yonge St, Unit 205, Thornhill, ON L3T 0C4
+- **Phone:** (289) 597-7191
+- **Website:** https://www.minafamilydentistry.com/
+- **Dentists:** Dr. Mehdi Adibrad (periodontics, dental implants, cosmetic surgery) · Dr. Neda Kadivar (general & family)
+- **Business type:** Local service business
+- **Country / market:** Canada - Semrush database `ca`
+- **Service area:** Thornhill, Richmond Hill, Markham, Vaughan (York Region)
+- **Services:** Cleanings & prevention · Cosmetic dentistry · Dental implants · Invisalign · Periodontics · Root canal · Oral surgery · Emergency care · Composite fillings · Crowns & caps · Fixed bridges · Dentures & partials · Inlay & onlay · Zoom whitening
+- **Semrush:** Not connected yet - keyword map built on ESTIMATES, re-validate when connected
+- **Difficulty ceiling:** 30 (new-site default; exact ceiling unknown until Semrush gives the Authority Score)
+
 ## Version
 
 This is the free version of the SEO Blueprint, frozen at the video. The living version - with the context layer that makes every page sound like you, Business Profile setup, the review machine, internal linking, the client proposal and the batch builder - lives in the community: https://www.skool.com/automatable
